@@ -25,7 +25,6 @@ I’m  working on the 6th project of the <a href="https://openclassrooms.com/en/
 [![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/olafswan)
 [![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/olafswan)
 [![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/olafswan)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/olafswan)
 [![shopify](https://img.shields.io/badge/shopify-black?style=for-the-badge&logo=shopify)](https://github.com/olafswan)
 [![adobephotoshop](https://img.shields.io/badge/adobephotoshop-black?style=for-the-badge&logo=adobephotoshop)](https://github.com/olafswan)
 [![adobepremierepro](https://img.shields.io/badge/adobepremierepro-black?style=for-the-badge&logo=adobepremierepro)](https://github.com/olafswan)
