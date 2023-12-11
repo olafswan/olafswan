@@ -5,11 +5,11 @@
 </p>-->
 <p align="center">
     <i>
-        I'm a french 🇫🇷 front-end developer student 👨‍🎓 at @OpenClassroom
+        I'm a french front-end developer student 👨‍🎓 at @OpenClassroom
     </i>
 </p>
 <p align="center">
-        Currently improving my JavaScript knowledge before to start learning React
+        Currently learning React 🤓
     </i>
 </p>
 <p align="center">
@@ -21,13 +21,12 @@ I’m  working on the 11th project of the <a href="https://openclassrooms.com/en
        
 ### Knowledge
 
+[![React](https://img.shields.io/badge/react-black?logo=react&style=for-the-badge)](https://github.com/olafswan)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/olafswan)
 [![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/olafswan)
 [![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/olafswan)
 [![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/olafswan)
-[![shopify](https://img.shields.io/badge/shopify-black?style=for-the-badge&logo=shopify)](https://github.com/olafswan)
-[![adobephotoshop](https://img.shields.io/badge/adobephotoshop-black?style=for-the-badge&logo=adobephotoshop)](https://github.com/olafswan)
-[![adobepremierepro](https://img.shields.io/badge/adobepremierepro-black?style=for-the-badge&logo=adobepremierepro)](https://github.com/olafswan)
+
         
         
         
