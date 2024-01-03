@@ -14,7 +14,7 @@
 </p>
 <p align="center">
     <i>
-I’m  working on the 11th project of the <a href="https://openclassrooms.com/en/paths/516-developpeur-dapplication-javascript-react">OpenClassrooms's Javascript React training program</a>
+I’m  working on the 12th project of the <a href="https://openclassrooms.com/en/paths/516-developpeur-dapplication-javascript-react">OpenClassrooms's Javascript React training program</a>
    </i>
 </p>
 
