@@ -14,7 +14,7 @@ I have completed the <a href="https://openclassrooms.com/en/paths/516-developpeu
    </i>👨‍🎓
 </p>
 <p align="center">
-        Currently improving my skills at React and my backend knowledge 🤓
+        Currently improving my skills at React, React Native and my backend knowledge 🤓
     </i>
 </p>
 
