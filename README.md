@@ -18,7 +18,7 @@ I have completed the <a href="https://openclassrooms.com/en/paths/516-developpeu
     </i>
 </p>
 
-       
+  <!--     
 ### Stack 
 
 
@@ -31,7 +31,7 @@ I have completed the <a href="https://openclassrooms.com/en/paths/516-developpeu
 [![Express](https://img.shields.io/badge/express-black?logo=express&style=for-the-badge)](https://github.com/olafswan)
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb&style=for-the-badge)](https://github.com/olafswan)
 
-
+-->
         
         
         
